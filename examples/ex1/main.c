@@ -18,6 +18,8 @@
 
 #include <stdio.h>
 
+// TODO: trocar p/ python
+
 void hello(void);
 void goodbye(void);
 
@@ -26,6 +28,10 @@ int main(void) {
   return 0;
 }
 
-void hello(void) { printf("Hello, World!"); }
+void hello(void) { 
+  printf("Hello, World!"); 
+}
 
-void goodbye(void) { printf("Goodbye!"); }
+void goodbye(void) {
+  printf("Goodbye!"); 
+}

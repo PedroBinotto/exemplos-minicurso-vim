@@ -5,16 +5,13 @@
  */
 
 function main(): void {
-  const params = getParams()
+  const params = getParams();
   console.log(params);
 }
 
-export function getParams(): { value: number }[] {  // TODO: refactor to return object values
-  return [
-    1,
-    2,
-    3,
-  ]
+export function getParams(): { value: number }[] {
+  // TODO: refactor to return object values
+  return [1, 2, 3];
 }
 
 main();
