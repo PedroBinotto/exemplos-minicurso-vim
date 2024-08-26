@@ -1,7 +1,7 @@
-/* file    ex1/ex2.ts
+/* file    ex3/ex3.ts
  * author  Pedro Santi Binotto, André William Régis
  *
- * Exemplo 2.1: SUBSTITUIÇÃO DE TEXTO
+ * Exemplo 3.1: SUBSTITUIÇÃO DE TEXTO
  */
 
 function main(): void {
